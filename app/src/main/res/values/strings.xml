@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Selected Round Images</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="round">Shape Image</string>
+    <string name="part">Part shape Image</string>
+    <string name="oval">Circular image</string>
+    <string name="customize">Custom image</string>
+    <string name="left_bottom">Left bottom corner radius (px):</string>
+    <string name="right_bottom">Right bottom corner radius (px):</string>
+    <string name="left_top">Left top corner radius (px):</string>
+    <string name="right_top">Right top corner radius (px): </string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="oval_">Circular Image?</string>
+</resources>
